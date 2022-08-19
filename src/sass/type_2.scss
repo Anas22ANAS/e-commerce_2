@@ -1,0 +1,109 @@
+.two {
+    h4{
+        color: $green-color !important;
+
+    }
+    button {
+        background-color: $green-color !important;
+        &:hover{
+            background-color: #eee !important;
+            color: $green-color !important;
+        }
+    }
+}
+.custom-two {
+    h3 {
+        color: $green-color;
+    }
+    h4{
+        color: $brown-color;
+    }
+}
+.card-two{
+    h2{
+        color: $green-color !important;
+    }
+    h5{
+        color: $brown-color;
+    }
+    
+        .float-left{
+            .btn-2 {
+                background-color: $green-color !important;
+                &:hover{
+                    background-color: #eee !important;
+                    color: $green-color !important;
+                }
+            }
+        }
+}
+.footer-two{
+    h2{
+        color: $green-color;
+    }
+}
+.end-two{
+    a{
+      
+        &:hover{
+            color: $green-color !important;
+        } 
+    }
+
+}
+
+
+
+.three {
+    h4{
+        color: $red-color !important;
+
+    }
+    button {
+        background-color: $red-color !important;
+        &:hover{
+            background-color: #eee !important;
+            color: $red-color !important;
+        }
+    }
+}
+.custom-three {
+    h3 {
+        color: $red-color;
+    }
+    h4{
+        color: $n-color;
+    }
+}
+.card-three{
+    h2{
+        color: $red-color !important;
+    }
+    h5{
+        color: $n-color;
+    }
+    
+        .float-left{
+            .btn-2 {
+                background-color: $red-color !important;
+                &:hover{
+                    background-color: #eee !important;
+                    color: $red-color !important;
+                }
+            }
+        }
+}
+.footer-three{
+    h2{
+        color: $red-color;
+    }
+}
+.end-three{
+    a{
+    
+        &:hover{
+            color: $red-color !important;
+        } 
+    }
+
+}
